@@ -1,0 +1,7 @@
+.content .pull-left,
+.content .pull-right {
+    width: 48%;
+    height: 400px;
+    background-color: pink;
+
+}
